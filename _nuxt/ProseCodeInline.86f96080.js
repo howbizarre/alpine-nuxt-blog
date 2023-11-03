@@ -1,1 +1,0 @@
-import{k as _,b as n,c as t,a5 as o}from"./entry.cea22e4b.js";const r={};function s(e,a){return n(),t("code",null,[o(e.$slots,"default",{},void 0,!0)])}const d=_(r,[["render",s],["__scopeId","data-v-33a244bd"]]);export{d as default};
